@@ -1,0 +1,1519 @@
+[2021-08-02 17:14:34.944] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:15:13.418] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:25:30.720] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:25:30.938] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:25:55.493] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:25:55.697] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:26:04.942] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:26:05.145] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:26:14.308] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:26:14.518] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:41:40.652] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:41:40.854] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:45:42.625] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:45:42.846] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:46:12.026] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:46:12.240] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:46:56.599] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:46:56.808] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:46:56.835] [info] Step 2: Scaling generic model
+[2021-08-02 17:46:56.916] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:46:56.916] [info] Measurement 'pelvis'
+[2021-08-02 17:46:56.917] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 17:46:56.917] [info] 	overall scale factor = 1.33961
+[2021-08-02 17:46:56.917] [info] Measurement 'femur_r'
+[2021-08-02 17:46:56.917] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:46:56.918] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:46:56.918] [info] Measurement 'tibia_r'
+[2021-08-02 17:46:56.918] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 17:46:56.918] [info] 	overall scale factor = 1.08424
+[2021-08-02 17:46:56.919] [info] Measurement 'patella_r'
+[2021-08-02 17:46:56.919] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:46:56.919] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:46:56.920] [info] Measurement 'talus_r'
+[2021-08-02 17:46:56.920] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:46:56.920] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:46:56.920] [info] Measurement 'calcn_r'
+[2021-08-02 17:46:56.920] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:46:56.920] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:46:56.921] [info] Measurement 'toes_r'
+[2021-08-02 17:46:56.921] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:46:56.921] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:46:56.921] [info] Measurement 'femur_l'
+[2021-08-02 17:46:56.921] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 17:46:56.921] [info] 	overall scale factor = 0.978921
+[2021-08-02 17:46:56.921] [info] Measurement 'tibia_l'
+[2021-08-02 17:46:56.922] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 17:46:56.922] [info] 	overall scale factor = 1.08452
+[2021-08-02 17:46:56.922] [info] Measurement 'patella_l'
+[2021-08-02 17:46:56.922] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:46:56.922] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 17:46:56.922] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 17:46:56.923] [info] Measurement 'talus_l'
+[2021-08-02 17:46:56.923] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:46:56.923] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:46:56.923] [info] Measurement 'calcn_l'
+[2021-08-02 17:46:56.923] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:46:56.923] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:46:56.923] [info] Measurement 'toes_l'
+[2021-08-02 17:46:56.924] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:46:56.924] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:46:56.924] [info] Measurement 'torso'
+[2021-08-02 17:46:56.924] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 17:46:56.924] [info] 	overall scale factor = 0.898764
+[2021-08-02 17:46:56.925] [info] Measurement 'torso'
+[2021-08-02 17:46:56.925] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 17:46:56.925] [info] 	overall scale factor = 0.696
+[2021-08-02 17:46:56.925] [info] Measurement 'humerus_r'
+[2021-08-02 17:46:56.926] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 17:46:56.926] [info] 	overall scale factor = 1.10766
+[2021-08-02 17:46:56.926] [info] Measurement 'ulna_r'
+[2021-08-02 17:46:56.926] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:46:56.926] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:46:56.926] [info] Measurement 'radius_r'
+[2021-08-02 17:46:56.927] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:46:56.927] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:46:56.927] [info] Measurement 'humerus_l'
+[2021-08-02 17:46:56.927] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 17:46:56.927] [info] 	overall scale factor = 1.07818
+[2021-08-02 17:46:56.927] [info] Measurement 'ulna_l'
+[2021-08-02 17:46:56.928] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:46:56.928] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:46:56.928] [info] Measurement 'radius_l'
+[2021-08-02 17:46:56.928] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:46:56.929] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:46:57.135] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 17:46:57.137] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:46:57.212] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 17:47:22.784] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:47:23.000] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:23.016] [info] Step 2: Scaling generic model
+[2021-08-02 17:47:23.094] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:23.094] [info] Measurement 'pelvis'
+[2021-08-02 17:47:23.095] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 17:47:23.095] [info] 	overall scale factor = 1.33961
+[2021-08-02 17:47:23.095] [info] Measurement 'femur_r'
+[2021-08-02 17:47:23.095] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:47:23.096] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:47:23.096] [info] Measurement 'tibia_r'
+[2021-08-02 17:47:23.096] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 17:47:23.096] [info] 	overall scale factor = 1.08424
+[2021-08-02 17:47:23.097] [info] Measurement 'patella_r'
+[2021-08-02 17:47:23.097] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:47:23.097] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:47:23.098] [info] Measurement 'talus_r'
+[2021-08-02 17:47:23.098] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:23.098] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:23.099] [info] Measurement 'calcn_r'
+[2021-08-02 17:47:23.099] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:23.099] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:23.100] [info] Measurement 'toes_r'
+[2021-08-02 17:47:23.100] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:23.100] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:23.100] [info] Measurement 'femur_l'
+[2021-08-02 17:47:23.101] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 17:47:23.101] [info] 	overall scale factor = 0.978921
+[2021-08-02 17:47:23.101] [info] Measurement 'tibia_l'
+[2021-08-02 17:47:23.101] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 17:47:23.102] [info] 	overall scale factor = 1.08452
+[2021-08-02 17:47:23.102] [info] Measurement 'patella_l'
+[2021-08-02 17:47:23.102] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:23.102] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 17:47:23.102] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 17:47:23.103] [info] Measurement 'talus_l'
+[2021-08-02 17:47:23.103] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:23.103] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:23.103] [info] Measurement 'calcn_l'
+[2021-08-02 17:47:23.103] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:23.104] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:23.104] [info] Measurement 'toes_l'
+[2021-08-02 17:47:23.104] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:23.104] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:23.104] [info] Measurement 'torso'
+[2021-08-02 17:47:23.104] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 17:47:23.104] [info] 	overall scale factor = 0.898764
+[2021-08-02 17:47:23.104] [info] Measurement 'torso'
+[2021-08-02 17:47:23.105] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 17:47:23.105] [info] 	overall scale factor = 0.696
+[2021-08-02 17:47:23.105] [info] Measurement 'humerus_r'
+[2021-08-02 17:47:23.105] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 17:47:23.105] [info] 	overall scale factor = 1.10766
+[2021-08-02 17:47:23.105] [info] Measurement 'ulna_r'
+[2021-08-02 17:47:23.105] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:47:23.105] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:47:23.105] [info] Measurement 'radius_r'
+[2021-08-02 17:47:23.106] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:47:23.106] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:47:23.106] [info] Measurement 'humerus_l'
+[2021-08-02 17:47:23.106] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 17:47:23.106] [info] 	overall scale factor = 1.07818
+[2021-08-02 17:47:23.106] [info] Measurement 'ulna_l'
+[2021-08-02 17:47:23.106] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:47:23.106] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:47:23.107] [info] Measurement 'radius_l'
+[2021-08-02 17:47:23.107] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:47:23.107] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:47:23.288] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 17:47:23.290] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:23.368] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 17:47:23.591] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:37.069] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:47:37.285] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:37.301] [info] Step 2: Scaling generic model
+[2021-08-02 17:47:37.380] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:37.380] [info] Measurement 'pelvis'
+[2021-08-02 17:47:37.380] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 17:47:37.381] [info] 	overall scale factor = 1.33961
+[2021-08-02 17:47:37.381] [info] Measurement 'femur_r'
+[2021-08-02 17:47:37.381] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:47:37.382] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:47:37.382] [info] Measurement 'tibia_r'
+[2021-08-02 17:47:37.382] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 17:47:37.383] [info] 	overall scale factor = 1.08424
+[2021-08-02 17:47:37.383] [info] Measurement 'patella_r'
+[2021-08-02 17:47:37.383] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:47:37.384] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:47:37.384] [info] Measurement 'talus_r'
+[2021-08-02 17:47:37.384] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:37.384] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:37.384] [info] Measurement 'calcn_r'
+[2021-08-02 17:47:37.385] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:37.385] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:37.385] [info] Measurement 'toes_r'
+[2021-08-02 17:47:37.386] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:37.386] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:37.386] [info] Measurement 'femur_l'
+[2021-08-02 17:47:37.386] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 17:47:37.386] [info] 	overall scale factor = 0.978921
+[2021-08-02 17:47:37.387] [info] Measurement 'tibia_l'
+[2021-08-02 17:47:37.387] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 17:47:37.387] [info] 	overall scale factor = 1.08452
+[2021-08-02 17:47:37.387] [info] Measurement 'patella_l'
+[2021-08-02 17:47:37.387] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:37.387] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 17:47:37.388] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 17:47:37.388] [info] Measurement 'talus_l'
+[2021-08-02 17:47:37.388] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:37.388] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:37.388] [info] Measurement 'calcn_l'
+[2021-08-02 17:47:37.388] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:37.389] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:37.389] [info] Measurement 'toes_l'
+[2021-08-02 17:47:37.389] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:37.389] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:37.389] [info] Measurement 'torso'
+[2021-08-02 17:47:37.389] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 17:47:37.390] [info] 	overall scale factor = 0.898764
+[2021-08-02 17:47:37.390] [info] Measurement 'torso'
+[2021-08-02 17:47:37.390] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 17:47:37.390] [info] 	overall scale factor = 0.696
+[2021-08-02 17:47:37.390] [info] Measurement 'humerus_r'
+[2021-08-02 17:47:37.390] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 17:47:37.390] [info] 	overall scale factor = 1.10766
+[2021-08-02 17:47:37.391] [info] Measurement 'ulna_r'
+[2021-08-02 17:47:37.391] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:47:37.391] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:47:37.391] [info] Measurement 'radius_r'
+[2021-08-02 17:47:37.392] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:47:37.392] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:47:37.392] [info] Measurement 'humerus_l'
+[2021-08-02 17:47:37.392] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 17:47:37.392] [info] 	overall scale factor = 1.07818
+[2021-08-02 17:47:37.393] [info] Measurement 'ulna_l'
+[2021-08-02 17:47:37.393] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:47:37.393] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:47:37.393] [info] Measurement 'radius_l'
+[2021-08-02 17:47:37.393] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:47:37.394] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:47:37.579] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 17:47:37.581] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:37.665] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 17:47:37.887] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:47.752] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:47:47.960] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:47.977] [info] Step 2: Scaling generic model
+[2021-08-02 17:47:48.059] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:48.059] [info] Measurement 'pelvis'
+[2021-08-02 17:47:48.059] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 17:47:48.060] [info] 	overall scale factor = 1.33961
+[2021-08-02 17:47:48.060] [info] Measurement 'femur_r'
+[2021-08-02 17:47:48.061] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:47:48.061] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:47:48.061] [info] Measurement 'tibia_r'
+[2021-08-02 17:47:48.062] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 17:47:48.062] [info] 	overall scale factor = 1.08424
+[2021-08-02 17:47:48.062] [info] Measurement 'patella_r'
+[2021-08-02 17:47:48.063] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:47:48.063] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:47:48.063] [info] Measurement 'talus_r'
+[2021-08-02 17:47:48.064] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:48.064] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:48.064] [info] Measurement 'calcn_r'
+[2021-08-02 17:47:48.064] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:48.065] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:48.065] [info] Measurement 'toes_r'
+[2021-08-02 17:47:48.065] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:48.065] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:48.065] [info] Measurement 'femur_l'
+[2021-08-02 17:47:48.066] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 17:47:48.066] [info] 	overall scale factor = 0.978921
+[2021-08-02 17:47:48.066] [info] Measurement 'tibia_l'
+[2021-08-02 17:47:48.066] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 17:47:48.067] [info] 	overall scale factor = 1.08452
+[2021-08-02 17:47:48.067] [info] Measurement 'patella_l'
+[2021-08-02 17:47:48.067] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:48.067] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 17:47:48.068] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 17:47:48.068] [info] Measurement 'talus_l'
+[2021-08-02 17:47:48.069] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:48.069] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:48.069] [info] Measurement 'calcn_l'
+[2021-08-02 17:47:48.069] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:48.069] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:48.069] [info] Measurement 'toes_l'
+[2021-08-02 17:47:48.070] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:48.070] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:48.070] [info] Measurement 'torso'
+[2021-08-02 17:47:48.070] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 17:47:48.070] [info] 	overall scale factor = 0.898764
+[2021-08-02 17:47:48.070] [info] Measurement 'torso'
+[2021-08-02 17:47:48.071] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 17:47:48.071] [info] 	overall scale factor = 0.696
+[2021-08-02 17:47:48.071] [info] Measurement 'humerus_r'
+[2021-08-02 17:47:48.071] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 17:47:48.071] [info] 	overall scale factor = 1.10766
+[2021-08-02 17:47:48.071] [info] Measurement 'ulna_r'
+[2021-08-02 17:47:48.072] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:47:48.072] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:47:48.072] [info] Measurement 'radius_r'
+[2021-08-02 17:47:48.072] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:47:48.072] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:47:48.072] [info] Measurement 'humerus_l'
+[2021-08-02 17:47:48.073] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 17:47:48.073] [info] 	overall scale factor = 1.07818
+[2021-08-02 17:47:48.073] [info] Measurement 'ulna_l'
+[2021-08-02 17:47:48.073] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:47:48.073] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:47:48.074] [info] Measurement 'radius_l'
+[2021-08-02 17:47:48.074] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:47:48.074] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:47:48.260] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 17:47:48.261] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:48.340] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 17:47:48.562] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:58.231] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:47:58.444] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:58.462] [info] Step 2: Scaling generic model
+[2021-08-02 17:47:58.539] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:58.539] [info] Measurement 'pelvis'
+[2021-08-02 17:47:58.540] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 17:47:58.540] [info] 	overall scale factor = 1.33961
+[2021-08-02 17:47:58.541] [info] Measurement 'femur_r'
+[2021-08-02 17:47:58.541] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:47:58.541] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:47:58.542] [info] Measurement 'tibia_r'
+[2021-08-02 17:47:58.542] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 17:47:58.542] [info] 	overall scale factor = 1.08424
+[2021-08-02 17:47:58.543] [info] Measurement 'patella_r'
+[2021-08-02 17:47:58.543] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:47:58.543] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:47:58.544] [info] Measurement 'talus_r'
+[2021-08-02 17:47:58.544] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:58.544] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:58.545] [info] Measurement 'calcn_r'
+[2021-08-02 17:47:58.545] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:58.545] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:58.545] [info] Measurement 'toes_r'
+[2021-08-02 17:47:58.545] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:47:58.546] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:47:58.546] [info] Measurement 'femur_l'
+[2021-08-02 17:47:58.546] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 17:47:58.546] [info] 	overall scale factor = 0.978921
+[2021-08-02 17:47:58.546] [info] Measurement 'tibia_l'
+[2021-08-02 17:47:58.546] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 17:47:58.547] [info] 	overall scale factor = 1.08452
+[2021-08-02 17:47:58.547] [info] Measurement 'patella_l'
+[2021-08-02 17:47:58.547] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:58.547] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 17:47:58.547] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 17:47:58.547] [info] Measurement 'talus_l'
+[2021-08-02 17:47:58.547] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:58.548] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:58.548] [info] Measurement 'calcn_l'
+[2021-08-02 17:47:58.548] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:58.548] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:58.548] [info] Measurement 'toes_l'
+[2021-08-02 17:47:58.548] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:47:58.548] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:47:58.549] [info] Measurement 'torso'
+[2021-08-02 17:47:58.549] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 17:47:58.549] [info] 	overall scale factor = 0.898764
+[2021-08-02 17:47:58.549] [info] Measurement 'torso'
+[2021-08-02 17:47:58.549] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 17:47:58.549] [info] 	overall scale factor = 0.696
+[2021-08-02 17:47:58.549] [info] Measurement 'humerus_r'
+[2021-08-02 17:47:58.550] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 17:47:58.550] [info] 	overall scale factor = 1.10766
+[2021-08-02 17:47:58.550] [info] Measurement 'ulna_r'
+[2021-08-02 17:47:58.550] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:47:58.550] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:47:58.550] [info] Measurement 'radius_r'
+[2021-08-02 17:47:58.550] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:47:58.551] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:47:58.551] [info] Measurement 'humerus_l'
+[2021-08-02 17:47:58.551] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 17:47:58.551] [info] 	overall scale factor = 1.07818
+[2021-08-02 17:47:58.551] [info] Measurement 'ulna_l'
+[2021-08-02 17:47:58.552] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:47:58.552] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:47:58.552] [info] Measurement 'radius_l'
+[2021-08-02 17:47:58.552] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:47:58.552] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:47:58.733] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 17:47:58.735] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:58.813] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 17:47:59.038] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:59.051] [info] Step 3: Placing markers on model
+[2021-08-02 17:47:59.058] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:47:59.059] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 17:47:59.059] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:47:59.320] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 17:47:59.321] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 17:47:59.370] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:49:39.843] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:49:40.059] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:49:40.077] [info] Step 2: Scaling generic model
+[2021-08-02 17:49:40.157] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:49:40.158] [info] Measurement 'pelvis'
+[2021-08-02 17:49:40.158] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 17:49:40.158] [info] 	overall scale factor = 1.33961
+[2021-08-02 17:49:40.159] [info] Measurement 'femur_r'
+[2021-08-02 17:49:40.159] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:49:40.159] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:49:40.160] [info] Measurement 'tibia_r'
+[2021-08-02 17:49:40.160] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 17:49:40.160] [info] 	overall scale factor = 1.08424
+[2021-08-02 17:49:40.160] [info] Measurement 'patella_r'
+[2021-08-02 17:49:40.160] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:49:40.161] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:49:40.161] [info] Measurement 'talus_r'
+[2021-08-02 17:49:40.161] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:49:40.161] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:49:40.161] [info] Measurement 'calcn_r'
+[2021-08-02 17:49:40.161] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:49:40.161] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:49:40.162] [info] Measurement 'toes_r'
+[2021-08-02 17:49:40.162] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:49:40.162] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:49:40.162] [info] Measurement 'femur_l'
+[2021-08-02 17:49:40.162] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 17:49:40.162] [info] 	overall scale factor = 0.978921
+[2021-08-02 17:49:40.162] [info] Measurement 'tibia_l'
+[2021-08-02 17:49:40.162] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 17:49:40.163] [info] 	overall scale factor = 1.08452
+[2021-08-02 17:49:40.163] [info] Measurement 'patella_l'
+[2021-08-02 17:49:40.163] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:49:40.163] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 17:49:40.163] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 17:49:40.163] [info] Measurement 'talus_l'
+[2021-08-02 17:49:40.163] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:49:40.163] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:49:40.164] [info] Measurement 'calcn_l'
+[2021-08-02 17:49:40.164] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:49:40.164] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:49:40.164] [info] Measurement 'toes_l'
+[2021-08-02 17:49:40.164] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:49:40.164] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:49:40.164] [info] Measurement 'torso'
+[2021-08-02 17:49:40.164] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 17:49:40.165] [info] 	overall scale factor = 0.898764
+[2021-08-02 17:49:40.165] [info] Measurement 'torso'
+[2021-08-02 17:49:40.165] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 17:49:40.165] [info] 	overall scale factor = 0.696
+[2021-08-02 17:49:40.165] [info] Measurement 'humerus_r'
+[2021-08-02 17:49:40.165] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 17:49:40.165] [info] 	overall scale factor = 1.10766
+[2021-08-02 17:49:40.165] [info] Measurement 'ulna_r'
+[2021-08-02 17:49:40.166] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:49:40.166] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:49:40.166] [info] Measurement 'radius_r'
+[2021-08-02 17:49:40.166] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:49:40.166] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:49:40.166] [info] Measurement 'humerus_l'
+[2021-08-02 17:49:40.166] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 17:49:40.166] [info] 	overall scale factor = 1.07818
+[2021-08-02 17:49:40.167] [info] Measurement 'ulna_l'
+[2021-08-02 17:49:40.167] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:49:40.167] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:49:40.167] [info] Measurement 'radius_l'
+[2021-08-02 17:49:40.167] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:49:40.167] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:49:40.352] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 17:49:40.354] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:49:40.430] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 17:49:40.647] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:49:40.659] [info] Step 3: Placing markers on model
+[2021-08-02 17:49:40.665] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:49:40.665] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 17:49:40.666] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:49:40.922] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 17:49:40.922] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 17:49:40.964] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:57:33.511] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 17:57:33.721] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:57:33.737] [info] Step 2: Scaling generic model
+[2021-08-02 17:57:33.819] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:57:33.819] [info] Measurement 'pelvis'
+[2021-08-02 17:57:33.820] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 17:57:33.820] [info] 	overall scale factor = 1.33961
+[2021-08-02 17:57:33.820] [info] Measurement 'femur_r'
+[2021-08-02 17:57:33.821] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:57:33.821] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:57:33.821] [info] Measurement 'tibia_r'
+[2021-08-02 17:57:33.822] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 17:57:33.822] [info] 	overall scale factor = 1.08424
+[2021-08-02 17:57:33.822] [info] Measurement 'patella_r'
+[2021-08-02 17:57:33.822] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 17:57:33.823] [info] 	overall scale factor = 0.957346
+[2021-08-02 17:57:33.823] [info] Measurement 'talus_r'
+[2021-08-02 17:57:33.823] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:57:33.823] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:57:33.823] [info] Measurement 'calcn_r'
+[2021-08-02 17:57:33.823] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:57:33.824] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:57:33.824] [info] Measurement 'toes_r'
+[2021-08-02 17:57:33.824] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 17:57:33.824] [info] 	overall scale factor = 1.55746
+[2021-08-02 17:57:33.824] [info] Measurement 'femur_l'
+[2021-08-02 17:57:33.825] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 17:57:33.825] [info] 	overall scale factor = 0.978921
+[2021-08-02 17:57:33.825] [info] Measurement 'tibia_l'
+[2021-08-02 17:57:33.825] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 17:57:33.825] [info] 	overall scale factor = 1.08452
+[2021-08-02 17:57:33.825] [info] Measurement 'patella_l'
+[2021-08-02 17:57:33.826] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:57:33.826] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 17:57:33.826] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 17:57:33.826] [info] Measurement 'talus_l'
+[2021-08-02 17:57:33.826] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:57:33.827] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:57:33.827] [info] Measurement 'calcn_l'
+[2021-08-02 17:57:33.827] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:57:33.827] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:57:33.827] [info] Measurement 'toes_l'
+[2021-08-02 17:57:33.827] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 17:57:33.828] [info] 	overall scale factor = 1.37804
+[2021-08-02 17:57:33.828] [info] Measurement 'torso'
+[2021-08-02 17:57:33.828] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 17:57:33.828] [info] 	overall scale factor = 0.898764
+[2021-08-02 17:57:33.828] [info] Measurement 'torso'
+[2021-08-02 17:57:33.829] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 17:57:33.829] [info] 	overall scale factor = 0.696
+[2021-08-02 17:57:33.829] [info] Measurement 'humerus_r'
+[2021-08-02 17:57:33.829] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 17:57:33.829] [info] 	overall scale factor = 1.10766
+[2021-08-02 17:57:33.830] [info] Measurement 'ulna_r'
+[2021-08-02 17:57:33.830] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:57:33.830] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:57:33.830] [info] Measurement 'radius_r'
+[2021-08-02 17:57:33.830] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 17:57:33.830] [info] 	overall scale factor = 1.09276
+[2021-08-02 17:57:33.830] [info] Measurement 'humerus_l'
+[2021-08-02 17:57:33.831] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 17:57:33.831] [info] 	overall scale factor = 1.07818
+[2021-08-02 17:57:33.831] [info] Measurement 'ulna_l'
+[2021-08-02 17:57:33.831] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:57:33.831] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:57:33.831] [info] Measurement 'radius_l'
+[2021-08-02 17:57:33.831] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 17:57:33.832] [info] 	overall scale factor = 1.07872
+[2021-08-02 17:57:34.028] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 17:57:34.030] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:57:34.113] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 17:57:34.358] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:57:34.370] [info] Step 3: Placing markers on model
+[2021-08-02 17:57:34.376] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 17:57:34.377] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 17:57:34.378] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:57:34.665] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 17:57:34.666] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 17:57:34.713] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:57:34.715] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 17:57:34.788] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 18:22:17.758] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 18:22:17.966] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:22:17.984] [info] Step 2: Scaling generic model
+[2021-08-02 18:22:18.061] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:22:18.061] [info] Measurement 'pelvis'
+[2021-08-02 18:22:18.062] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 18:22:18.062] [info] 	overall scale factor = 1.33961
+[2021-08-02 18:22:18.062] [info] Measurement 'femur_r'
+[2021-08-02 18:22:18.062] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:22:18.063] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:22:18.063] [info] Measurement 'tibia_r'
+[2021-08-02 18:22:18.063] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 18:22:18.063] [info] 	overall scale factor = 1.08424
+[2021-08-02 18:22:18.064] [info] Measurement 'patella_r'
+[2021-08-02 18:22:18.064] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:22:18.064] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:22:18.065] [info] Measurement 'talus_r'
+[2021-08-02 18:22:18.065] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:22:18.065] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:22:18.065] [info] Measurement 'calcn_r'
+[2021-08-02 18:22:18.066] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:22:18.066] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:22:18.066] [info] Measurement 'toes_r'
+[2021-08-02 18:22:18.066] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:22:18.066] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:22:18.067] [info] Measurement 'femur_l'
+[2021-08-02 18:22:18.067] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 18:22:18.067] [info] 	overall scale factor = 0.978921
+[2021-08-02 18:22:18.067] [info] Measurement 'tibia_l'
+[2021-08-02 18:22:18.067] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 18:22:18.067] [info] 	overall scale factor = 1.08452
+[2021-08-02 18:22:18.068] [info] Measurement 'patella_l'
+[2021-08-02 18:22:18.068] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:18.068] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 18:22:18.068] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 18:22:18.068] [info] Measurement 'talus_l'
+[2021-08-02 18:22:18.069] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:22:18.069] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:22:18.069] [info] Measurement 'calcn_l'
+[2021-08-02 18:22:18.069] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:22:18.069] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:22:18.069] [info] Measurement 'toes_l'
+[2021-08-02 18:22:18.069] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:22:18.070] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:22:18.070] [info] Measurement 'torso'
+[2021-08-02 18:22:18.070] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 18:22:18.070] [info] 	overall scale factor = 0.898764
+[2021-08-02 18:22:18.070] [info] Measurement 'torso'
+[2021-08-02 18:22:18.070] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 18:22:18.071] [info] 	overall scale factor = 0.696
+[2021-08-02 18:22:18.071] [info] Measurement 'humerus_r'
+[2021-08-02 18:22:18.071] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 18:22:18.071] [info] 	overall scale factor = 1.10766
+[2021-08-02 18:22:18.071] [info] Measurement 'ulna_r'
+[2021-08-02 18:22:18.072] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:22:18.072] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:22:18.072] [info] Measurement 'radius_r'
+[2021-08-02 18:22:18.072] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:22:18.072] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:22:18.072] [info] Measurement 'humerus_l'
+[2021-08-02 18:22:18.073] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 18:22:18.073] [info] 	overall scale factor = 1.07818
+[2021-08-02 18:22:18.073] [info] Measurement 'ulna_l'
+[2021-08-02 18:22:18.073] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:22:18.073] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:22:18.073] [info] Measurement 'radius_l'
+[2021-08-02 18:22:18.073] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:22:18.073] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:22:18.255] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 18:22:18.257] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:18.344] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 18:22:18.575] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:22:18.587] [info] Step 3: Placing markers on model
+[2021-08-02 18:22:18.593] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:22:18.594] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 18:22:18.594] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:18.851] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 18:22:18.851] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 18:22:18.899] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:18.901] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:18.978] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 18:22:50.847] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 18:22:51.059] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:22:51.078] [info] Step 2: Scaling generic model
+[2021-08-02 18:22:51.157] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:22:51.157] [info] Measurement 'pelvis'
+[2021-08-02 18:22:51.158] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 18:22:51.158] [info] 	overall scale factor = 1.33961
+[2021-08-02 18:22:51.158] [info] Measurement 'femur_r'
+[2021-08-02 18:22:51.158] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:22:51.159] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:22:51.159] [info] Measurement 'tibia_r'
+[2021-08-02 18:22:51.159] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 18:22:51.160] [info] 	overall scale factor = 1.08424
+[2021-08-02 18:22:51.160] [info] Measurement 'patella_r'
+[2021-08-02 18:22:51.160] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:22:51.161] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:22:51.161] [info] Measurement 'talus_r'
+[2021-08-02 18:22:51.161] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:22:51.161] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:22:51.162] [info] Measurement 'calcn_r'
+[2021-08-02 18:22:51.162] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:22:51.162] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:22:51.162] [info] Measurement 'toes_r'
+[2021-08-02 18:22:51.162] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:22:51.163] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:22:51.163] [info] Measurement 'femur_l'
+[2021-08-02 18:22:51.163] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 18:22:51.163] [info] 	overall scale factor = 0.978921
+[2021-08-02 18:22:51.164] [info] Measurement 'tibia_l'
+[2021-08-02 18:22:51.164] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 18:22:51.164] [info] 	overall scale factor = 1.08452
+[2021-08-02 18:22:51.164] [info] Measurement 'patella_l'
+[2021-08-02 18:22:51.164] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:51.165] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 18:22:51.165] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 18:22:51.165] [info] Measurement 'talus_l'
+[2021-08-02 18:22:51.165] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:22:51.166] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:22:51.166] [info] Measurement 'calcn_l'
+[2021-08-02 18:22:51.166] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:22:51.166] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:22:51.167] [info] Measurement 'toes_l'
+[2021-08-02 18:22:51.167] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:22:51.167] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:22:51.168] [info] Measurement 'torso'
+[2021-08-02 18:22:51.168] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 18:22:51.168] [info] 	overall scale factor = 0.898764
+[2021-08-02 18:22:51.168] [info] Measurement 'torso'
+[2021-08-02 18:22:51.168] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 18:22:51.169] [info] 	overall scale factor = 0.696
+[2021-08-02 18:22:51.169] [info] Measurement 'humerus_r'
+[2021-08-02 18:22:51.169] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 18:22:51.169] [info] 	overall scale factor = 1.10766
+[2021-08-02 18:22:51.169] [info] Measurement 'ulna_r'
+[2021-08-02 18:22:51.169] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:22:51.170] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:22:51.170] [info] Measurement 'radius_r'
+[2021-08-02 18:22:51.170] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:22:51.170] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:22:51.170] [info] Measurement 'humerus_l'
+[2021-08-02 18:22:51.170] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 18:22:51.170] [info] 	overall scale factor = 1.07818
+[2021-08-02 18:22:51.171] [info] Measurement 'ulna_l'
+[2021-08-02 18:22:51.171] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:22:51.171] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:22:51.171] [info] Measurement 'radius_l'
+[2021-08-02 18:22:51.172] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:22:51.172] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:22:51.362] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 18:22:51.364] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:51.455] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 18:22:51.686] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:22:51.699] [info] Step 3: Placing markers on model
+[2021-08-02 18:22:51.705] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:22:51.706] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 18:22:51.707] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:51.972] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 18:22:51.972] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 18:22:52.016] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:52.018] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:22:52.101] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 18:23:54.829] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 18:23:55.035] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:23:55.052] [info] Step 2: Scaling generic model
+[2021-08-02 18:23:55.132] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:23:55.133] [info] Measurement 'pelvis'
+[2021-08-02 18:23:55.133] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 18:23:55.134] [info] 	overall scale factor = 1.33961
+[2021-08-02 18:23:55.134] [info] Measurement 'femur_r'
+[2021-08-02 18:23:55.134] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:23:55.135] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:23:55.135] [info] Measurement 'tibia_r'
+[2021-08-02 18:23:55.135] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 18:23:55.136] [info] 	overall scale factor = 1.08424
+[2021-08-02 18:23:55.136] [info] Measurement 'patella_r'
+[2021-08-02 18:23:55.136] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:23:55.136] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:23:55.137] [info] Measurement 'talus_r'
+[2021-08-02 18:23:55.137] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:23:55.137] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:23:55.137] [info] Measurement 'calcn_r'
+[2021-08-02 18:23:55.138] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:23:55.138] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:23:55.138] [info] Measurement 'toes_r'
+[2021-08-02 18:23:55.138] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:23:55.138] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:23:55.139] [info] Measurement 'femur_l'
+[2021-08-02 18:23:55.139] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 18:23:55.139] [info] 	overall scale factor = 0.978921
+[2021-08-02 18:23:55.139] [info] Measurement 'tibia_l'
+[2021-08-02 18:23:55.139] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 18:23:55.139] [info] 	overall scale factor = 1.08452
+[2021-08-02 18:23:55.140] [info] Measurement 'patella_l'
+[2021-08-02 18:23:55.140] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:23:55.140] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 18:23:55.141] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 18:23:55.141] [info] Measurement 'talus_l'
+[2021-08-02 18:23:55.141] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:23:55.142] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:23:55.142] [info] Measurement 'calcn_l'
+[2021-08-02 18:23:55.142] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:23:55.142] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:23:55.142] [info] Measurement 'toes_l'
+[2021-08-02 18:23:55.142] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:23:55.143] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:23:55.143] [info] Measurement 'torso'
+[2021-08-02 18:23:55.143] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 18:23:55.143] [info] 	overall scale factor = 0.898764
+[2021-08-02 18:23:55.143] [info] Measurement 'torso'
+[2021-08-02 18:23:55.143] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 18:23:55.144] [info] 	overall scale factor = 0.696
+[2021-08-02 18:23:55.144] [info] Measurement 'humerus_r'
+[2021-08-02 18:23:55.144] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 18:23:55.145] [info] 	overall scale factor = 1.10766
+[2021-08-02 18:23:55.145] [info] Measurement 'ulna_r'
+[2021-08-02 18:23:55.145] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:23:55.145] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:23:55.145] [info] Measurement 'radius_r'
+[2021-08-02 18:23:55.146] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:23:55.146] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:23:55.146] [info] Measurement 'humerus_l'
+[2021-08-02 18:23:55.146] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 18:23:55.146] [info] 	overall scale factor = 1.07818
+[2021-08-02 18:23:55.147] [info] Measurement 'ulna_l'
+[2021-08-02 18:23:55.147] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:23:55.147] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:23:55.147] [info] Measurement 'radius_l'
+[2021-08-02 18:23:55.148] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:23:55.148] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:23:55.332] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 18:23:55.334] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:23:55.417] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 18:23:55.635] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:23:55.648] [info] Step 3: Placing markers on model
+[2021-08-02 18:23:55.654] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:23:55.654] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 18:23:55.655] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:23:55.914] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 18:23:55.915] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 18:23:55.960] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:23:55.962] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:23:56.039] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 18:26:00.056] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 18:26:00.285] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:26:00.305] [info] Step 2: Scaling generic model
+[2021-08-02 18:26:00.387] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:26:00.388] [info] Measurement 'pelvis'
+[2021-08-02 18:26:00.388] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 18:26:00.388] [info] 	overall scale factor = 1.33961
+[2021-08-02 18:26:00.389] [info] Measurement 'femur_r'
+[2021-08-02 18:26:00.389] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:26:00.389] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:26:00.390] [info] Measurement 'tibia_r'
+[2021-08-02 18:26:00.390] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 18:26:00.390] [info] 	overall scale factor = 1.08424
+[2021-08-02 18:26:00.390] [info] Measurement 'patella_r'
+[2021-08-02 18:26:00.391] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:26:00.391] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:26:00.391] [info] Measurement 'talus_r'
+[2021-08-02 18:26:00.391] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:26:00.391] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:26:00.392] [info] Measurement 'calcn_r'
+[2021-08-02 18:26:00.392] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:26:00.392] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:26:00.392] [info] Measurement 'toes_r'
+[2021-08-02 18:26:00.392] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:26:00.392] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:26:00.393] [info] Measurement 'femur_l'
+[2021-08-02 18:26:00.393] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 18:26:00.393] [info] 	overall scale factor = 0.978921
+[2021-08-02 18:26:00.393] [info] Measurement 'tibia_l'
+[2021-08-02 18:26:00.394] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 18:26:00.394] [info] 	overall scale factor = 1.08452
+[2021-08-02 18:26:00.394] [info] Measurement 'patella_l'
+[2021-08-02 18:26:00.394] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:00.394] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 18:26:00.394] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 18:26:00.395] [info] Measurement 'talus_l'
+[2021-08-02 18:26:00.395] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:26:00.395] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:26:00.395] [info] Measurement 'calcn_l'
+[2021-08-02 18:26:00.395] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:26:00.395] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:26:00.395] [info] Measurement 'toes_l'
+[2021-08-02 18:26:00.395] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:26:00.396] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:26:00.396] [info] Measurement 'torso'
+[2021-08-02 18:26:00.396] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 18:26:00.396] [info] 	overall scale factor = 0.898764
+[2021-08-02 18:26:00.396] [info] Measurement 'torso'
+[2021-08-02 18:26:00.396] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 18:26:00.396] [info] 	overall scale factor = 0.696
+[2021-08-02 18:26:00.396] [info] Measurement 'humerus_r'
+[2021-08-02 18:26:00.396] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 18:26:00.397] [info] 	overall scale factor = 1.10766
+[2021-08-02 18:26:00.397] [info] Measurement 'ulna_r'
+[2021-08-02 18:26:00.397] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:26:00.397] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:26:00.397] [info] Measurement 'radius_r'
+[2021-08-02 18:26:00.397] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:26:00.397] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:26:00.397] [info] Measurement 'humerus_l'
+[2021-08-02 18:26:00.398] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 18:26:00.398] [info] 	overall scale factor = 1.07818
+[2021-08-02 18:26:00.398] [info] Measurement 'ulna_l'
+[2021-08-02 18:26:00.398] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:26:00.398] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:26:00.398] [info] Measurement 'radius_l'
+[2021-08-02 18:26:00.398] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:26:00.398] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:26:00.591] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 18:26:00.593] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:00.678] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 18:26:00.909] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:26:00.923] [info] Step 3: Placing markers on model
+[2021-08-02 18:26:00.929] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:26:00.929] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 18:26:00.930] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:01.189] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 18:26:01.190] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 18:26:01.233] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:01.235] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:01.314] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 18:26:37.076] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 18:26:37.290] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:26:37.306] [info] Step 2: Scaling generic model
+[2021-08-02 18:26:37.382] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:26:37.383] [info] Measurement 'pelvis'
+[2021-08-02 18:26:37.383] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 18:26:37.383] [info] 	overall scale factor = 1.33961
+[2021-08-02 18:26:37.384] [info] Measurement 'femur_r'
+[2021-08-02 18:26:37.384] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:26:37.384] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:26:37.385] [info] Measurement 'tibia_r'
+[2021-08-02 18:26:37.385] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 18:26:37.385] [info] 	overall scale factor = 1.08424
+[2021-08-02 18:26:37.386] [info] Measurement 'patella_r'
+[2021-08-02 18:26:37.386] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:26:37.386] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:26:37.387] [info] Measurement 'talus_r'
+[2021-08-02 18:26:37.387] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:26:37.387] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:26:37.388] [info] Measurement 'calcn_r'
+[2021-08-02 18:26:37.388] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:26:37.388] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:26:37.388] [info] Measurement 'toes_r'
+[2021-08-02 18:26:37.389] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:26:37.389] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:26:37.389] [info] Measurement 'femur_l'
+[2021-08-02 18:26:37.389] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 18:26:37.390] [info] 	overall scale factor = 0.978921
+[2021-08-02 18:26:37.390] [info] Measurement 'tibia_l'
+[2021-08-02 18:26:37.390] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 18:26:37.390] [info] 	overall scale factor = 1.08452
+[2021-08-02 18:26:37.390] [info] Measurement 'patella_l'
+[2021-08-02 18:26:37.390] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:37.390] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 18:26:37.391] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 18:26:37.391] [info] Measurement 'talus_l'
+[2021-08-02 18:26:37.391] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:26:37.391] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:26:37.391] [info] Measurement 'calcn_l'
+[2021-08-02 18:26:37.391] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:26:37.392] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:26:37.392] [info] Measurement 'toes_l'
+[2021-08-02 18:26:37.392] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:26:37.392] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:26:37.392] [info] Measurement 'torso'
+[2021-08-02 18:26:37.392] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 18:26:37.392] [info] 	overall scale factor = 0.898764
+[2021-08-02 18:26:37.392] [info] Measurement 'torso'
+[2021-08-02 18:26:37.393] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 18:26:37.393] [info] 	overall scale factor = 0.696
+[2021-08-02 18:26:37.393] [info] Measurement 'humerus_r'
+[2021-08-02 18:26:37.393] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 18:26:37.393] [info] 	overall scale factor = 1.10766
+[2021-08-02 18:26:37.393] [info] Measurement 'ulna_r'
+[2021-08-02 18:26:37.393] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:26:37.393] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:26:37.393] [info] Measurement 'radius_r'
+[2021-08-02 18:26:37.394] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:26:37.394] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:26:37.394] [info] Measurement 'humerus_l'
+[2021-08-02 18:26:37.394] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 18:26:37.394] [info] 	overall scale factor = 1.07818
+[2021-08-02 18:26:37.394] [info] Measurement 'ulna_l'
+[2021-08-02 18:26:37.394] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:26:37.394] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:26:37.395] [info] Measurement 'radius_l'
+[2021-08-02 18:26:37.395] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:26:37.395] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:26:37.579] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 18:26:37.580] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:37.661] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 18:26:37.884] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:26:37.899] [info] Step 3: Placing markers on model
+[2021-08-02 18:26:37.905] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:26:37.905] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 18:26:37.906] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:38.165] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 18:26:38.165] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 18:26:38.209] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:38.211] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:26:38.291] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 18:28:27.854] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 18:28:28.066] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:28:28.083] [info] Step 2: Scaling generic model
+[2021-08-02 18:28:28.157] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:28:28.158] [info] Measurement 'pelvis'
+[2021-08-02 18:28:28.158] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 18:28:28.159] [info] 	overall scale factor = 1.33961
+[2021-08-02 18:28:28.159] [info] Measurement 'femur_r'
+[2021-08-02 18:28:28.159] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:28:28.160] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:28:28.160] [info] Measurement 'tibia_r'
+[2021-08-02 18:28:28.160] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 18:28:28.160] [info] 	overall scale factor = 1.08424
+[2021-08-02 18:28:28.161] [info] Measurement 'patella_r'
+[2021-08-02 18:28:28.161] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 18:28:28.161] [info] 	overall scale factor = 0.957346
+[2021-08-02 18:28:28.162] [info] Measurement 'talus_r'
+[2021-08-02 18:28:28.162] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:28:28.162] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:28:28.162] [info] Measurement 'calcn_r'
+[2021-08-02 18:28:28.163] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:28:28.163] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:28:28.163] [info] Measurement 'toes_r'
+[2021-08-02 18:28:28.164] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 18:28:28.164] [info] 	overall scale factor = 1.55746
+[2021-08-02 18:28:28.164] [info] Measurement 'femur_l'
+[2021-08-02 18:28:28.164] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 18:28:28.165] [info] 	overall scale factor = 0.978921
+[2021-08-02 18:28:28.165] [info] Measurement 'tibia_l'
+[2021-08-02 18:28:28.165] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 18:28:28.165] [info] 	overall scale factor = 1.08452
+[2021-08-02 18:28:28.165] [info] Measurement 'patella_l'
+[2021-08-02 18:28:28.165] [warning] Marker lihp in patella_l measurement not found in FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:28:28.165] [warning] Marker lihp in patella_l measurement not found in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 18:28:28.166] [warning] 'patella_l' measurement not used to scale FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody
+[2021-08-02 18:28:28.166] [info] Measurement 'talus_l'
+[2021-08-02 18:28:28.166] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:28:28.166] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:28:28.167] [info] Measurement 'calcn_l'
+[2021-08-02 18:28:28.167] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:28:28.167] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:28:28.167] [info] Measurement 'toes_l'
+[2021-08-02 18:28:28.167] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 18:28:28.167] [info] 	overall scale factor = 1.37804
+[2021-08-02 18:28:28.167] [info] Measurement 'torso'
+[2021-08-02 18:28:28.168] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 18:28:28.168] [info] 	overall scale factor = 0.898764
+[2021-08-02 18:28:28.168] [info] Measurement 'torso'
+[2021-08-02 18:28:28.168] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 18:28:28.168] [info] 	overall scale factor = 0.696
+[2021-08-02 18:28:28.169] [info] Measurement 'humerus_r'
+[2021-08-02 18:28:28.169] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 18:28:28.169] [info] 	overall scale factor = 1.10766
+[2021-08-02 18:28:28.169] [info] Measurement 'ulna_r'
+[2021-08-02 18:28:28.169] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:28:28.169] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:28:28.169] [info] Measurement 'radius_r'
+[2021-08-02 18:28:28.169] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 18:28:28.169] [info] 	overall scale factor = 1.09276
+[2021-08-02 18:28:28.170] [info] Measurement 'humerus_l'
+[2021-08-02 18:28:28.170] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 18:28:28.170] [info] 	overall scale factor = 1.07818
+[2021-08-02 18:28:28.170] [info] Measurement 'ulna_l'
+[2021-08-02 18:28:28.170] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:28:28.170] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:28:28.170] [info] Measurement 'radius_l'
+[2021-08-02 18:28:28.171] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 18:28:28.171] [info] 	overall scale factor = 1.07872
+[2021-08-02 18:28:28.361] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 18:28:28.366] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:28:28.457] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 18:28:28.671] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:28:28.685] [info] Step 3: Placing markers on model
+[2021-08-02 18:28:28.692] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 18:28:28.692] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 18:28:28.693] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:28:28.946] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 18:28:28.946] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 18:28:29.003] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:28:29.005] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 18:28:29.089] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 19:00:49.183] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 19:00:49.416] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:00:49.433] [info] Step 2: Scaling generic model
+[2021-08-02 19:00:49.516] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:00:49.517] [info] Measurement 'pelvis'
+[2021-08-02 19:00:49.517] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 19:00:49.518] [info] 	overall scale factor = 1.33961
+[2021-08-02 19:00:49.518] [info] Measurement 'femur_r'
+[2021-08-02 19:00:49.518] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 19:00:49.518] [info] 	overall scale factor = 0.957346
+[2021-08-02 19:00:49.519] [info] Measurement 'tibia_r'
+[2021-08-02 19:00:49.519] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 19:00:49.519] [info] 	overall scale factor = 1.08424
+[2021-08-02 19:00:49.519] [info] Measurement 'patella_r'
+[2021-08-02 19:00:49.520] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 19:00:49.520] [info] 	overall scale factor = 0.957346
+[2021-08-02 19:00:49.520] [info] Measurement 'talus_r'
+[2021-08-02 19:00:49.520] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 19:00:49.521] [info] 	overall scale factor = 1.55746
+[2021-08-02 19:00:49.521] [info] Measurement 'calcn_r'
+[2021-08-02 19:00:49.521] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 19:00:49.521] [info] 	overall scale factor = 1.55746
+[2021-08-02 19:00:49.522] [info] Measurement 'toes_r'
+[2021-08-02 19:00:49.522] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 19:00:49.522] [info] 	overall scale factor = 1.55746
+[2021-08-02 19:00:49.522] [info] Measurement 'femur_l'
+[2021-08-02 19:00:49.522] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 19:00:49.523] [info] 	overall scale factor = 0.978921
+[2021-08-02 19:00:49.523] [info] Measurement 'tibia_l'
+[2021-08-02 19:00:49.523] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 19:00:49.523] [info] 	overall scale factor = 1.08452
+[2021-08-02 19:00:49.523] [info] Measurement 'patella_l'
+[2021-08-02 19:00:49.524] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 19:00:49.524] [info] 	overall scale factor = 0.978921
+[2021-08-02 19:00:49.524] [info] Measurement 'talus_l'
+[2021-08-02 19:00:49.524] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 19:00:49.525] [info] 	overall scale factor = 1.37804
+[2021-08-02 19:00:49.525] [info] Measurement 'calcn_l'
+[2021-08-02 19:00:49.525] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 19:00:49.525] [info] 	overall scale factor = 1.37804
+[2021-08-02 19:00:49.526] [info] Measurement 'toes_l'
+[2021-08-02 19:00:49.526] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 19:00:49.526] [info] 	overall scale factor = 1.37804
+[2021-08-02 19:00:49.526] [info] Measurement 'torso'
+[2021-08-02 19:00:49.526] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 19:00:49.526] [info] 	overall scale factor = 0.898764
+[2021-08-02 19:00:49.527] [info] Measurement 'torso'
+[2021-08-02 19:00:49.527] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 19:00:49.527] [info] 	overall scale factor = 0.696
+[2021-08-02 19:00:49.527] [info] Measurement 'humerus_r'
+[2021-08-02 19:00:49.528] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 19:00:49.528] [info] 	overall scale factor = 1.10766
+[2021-08-02 19:00:49.528] [info] Measurement 'ulna_r'
+[2021-08-02 19:00:49.528] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 19:00:49.529] [info] 	overall scale factor = 1.09276
+[2021-08-02 19:00:49.529] [info] Measurement 'radius_r'
+[2021-08-02 19:00:49.529] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 19:00:49.529] [info] 	overall scale factor = 1.09276
+[2021-08-02 19:00:49.530] [info] Measurement 'humerus_l'
+[2021-08-02 19:00:49.530] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 19:00:49.530] [info] 	overall scale factor = 1.07818
+[2021-08-02 19:00:49.530] [info] Measurement 'ulna_l'
+[2021-08-02 19:00:49.530] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 19:00:49.531] [info] 	overall scale factor = 1.07872
+[2021-08-02 19:00:49.531] [info] Measurement 'radius_l'
+[2021-08-02 19:00:49.531] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 19:00:49.531] [info] 	overall scale factor = 1.07872
+[2021-08-02 19:00:49.744] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 19:00:49.747] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:00:49.828] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 19:00:50.072] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:00:50.088] [info] Step 3: Placing markers on model
+[2021-08-02 19:00:50.094] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:00:50.095] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 19:00:50.095] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:00:50.345] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 19:00:50.346] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 19:00:50.391] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:00:50.392] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:00:50.470] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 19:12:11.260] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 19:12:11.490] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:12:11.505] [info] Step 2: Scaling generic model
+[2021-08-02 19:12:11.585] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:12:11.585] [info] Measurement 'pelvis'
+[2021-08-02 19:12:11.585] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.356336
+[2021-08-02 19:12:11.585] [info] 	overall scale factor = 1.33961
+[2021-08-02 19:12:11.585] [info] Measurement 'femur_r'
+[2021-08-02 19:12:11.586] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 19:12:11.586] [info] 	overall scale factor = 0.957346
+[2021-08-02 19:12:11.586] [info] Measurement 'tibia_r'
+[2021-08-02 19:12:11.586] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.471615
+[2021-08-02 19:12:11.587] [info] 	overall scale factor = 1.08424
+[2021-08-02 19:12:11.587] [info] Measurement 'patella_r'
+[2021-08-02 19:12:11.587] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.473169
+[2021-08-02 19:12:11.587] [info] 	overall scale factor = 0.957346
+[2021-08-02 19:12:11.588] [info] Measurement 'talus_r'
+[2021-08-02 19:12:11.588] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 19:12:11.588] [info] 	overall scale factor = 1.55746
+[2021-08-02 19:12:11.588] [info] Measurement 'calcn_r'
+[2021-08-02 19:12:11.588] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 19:12:11.588] [info] 	overall scale factor = 1.55746
+[2021-08-02 19:12:11.589] [info] Measurement 'toes_r'
+[2021-08-02 19:12:11.589] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.253503
+[2021-08-02 19:12:11.589] [info] 	overall scale factor = 1.55746
+[2021-08-02 19:12:11.589] [info] Measurement 'femur_l'
+[2021-08-02 19:12:11.589] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 19:12:11.589] [info] 	overall scale factor = 0.978921
+[2021-08-02 19:12:11.590] [info] Measurement 'tibia_l'
+[2021-08-02 19:12:11.590] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.471736
+[2021-08-02 19:12:11.590] [info] 	overall scale factor = 1.08452
+[2021-08-02 19:12:11.590] [info] Measurement 'patella_l'
+[2021-08-02 19:12:11.590] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.483832
+[2021-08-02 19:12:11.591] [info] 	overall scale factor = 0.978921
+[2021-08-02 19:12:11.591] [info] Measurement 'talus_l'
+[2021-08-02 19:12:11.591] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 19:12:11.591] [info] 	overall scale factor = 1.37804
+[2021-08-02 19:12:11.591] [info] Measurement 'calcn_l'
+[2021-08-02 19:12:11.591] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 19:12:11.592] [info] 	overall scale factor = 1.37804
+[2021-08-02 19:12:11.592] [info] Measurement 'toes_l'
+[2021-08-02 19:12:11.592] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.224299
+[2021-08-02 19:12:11.592] [info] 	overall scale factor = 1.37804
+[2021-08-02 19:12:11.592] [info] Measurement 'torso'
+[2021-08-02 19:12:11.592] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.305580
+[2021-08-02 19:12:11.592] [info] 	overall scale factor = 0.898764
+[2021-08-02 19:12:11.593] [info] Measurement 'torso'
+[2021-08-02 19:12:11.593] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.37416
+[2021-08-02 19:12:11.593] [info] 	overall scale factor = 0.696
+[2021-08-02 19:12:11.593] [info] Measurement 'humerus_r'
+[2021-08-02 19:12:11.593] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.31891
+[2021-08-02 19:12:11.593] [info] 	overall scale factor = 1.10766
+[2021-08-02 19:12:11.593] [info] Measurement 'ulna_r'
+[2021-08-02 19:12:11.594] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 19:12:11.594] [info] 	overall scale factor = 1.09276
+[2021-08-02 19:12:11.594] [info] Measurement 'radius_r'
+[2021-08-02 19:12:11.594] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.276443
+[2021-08-02 19:12:11.594] [info] 	overall scale factor = 1.09276
+[2021-08-02 19:12:11.594] [info] Measurement 'humerus_l'
+[2021-08-02 19:12:11.595] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.310399
+[2021-08-02 19:12:11.595] [info] 	overall scale factor = 1.07818
+[2021-08-02 19:12:11.595] [info] Measurement 'ulna_l'
+[2021-08-02 19:12:11.595] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 19:12:11.595] [info] 	overall scale factor = 1.07872
+[2021-08-02 19:12:11.595] [info] Measurement 'radius_l'
+[2021-08-02 19:12:11.596] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.27289
+[2021-08-02 19:12:11.596] [info] 	overall scale factor = 1.07872
+[2021-08-02 19:12:11.797] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 19:12:11.798] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:12:11.880] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 19:12:12.119] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:12:12.131] [info] Step 3: Placing markers on model
+[2021-08-02 19:12:12.138] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:12:12.138] [info] Averaged frames from time 0.0 to 1.46 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 73)
+[2021-08-02 19:12:12.139] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:12:12.422] [info] Frame at (t = 0.0):	 total squared error = 0.109534, marker error: RMS = 0.0510681, max = 0.140656 (rfoo)
+[2021-08-02 19:12:12.422] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 19:12:12.472] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:12:12.475] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:12:12.561] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 19:25:42.918] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 19:25:43.134] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:25:43.152] [info] Step 2: Scaling generic model
+[2021-08-02 19:25:43.235] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:25:43.236] [info] Measurement 'pelvis'
+[2021-08-02 19:25:43.236] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.294951
+[2021-08-02 19:25:43.236] [info] 	overall scale factor = 1.10884
+[2021-08-02 19:25:43.236] [info] Measurement 'femur_r'
+[2021-08-02 19:25:43.237] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.466485
+[2021-08-02 19:25:43.237] [info] 	overall scale factor = 0.943823
+[2021-08-02 19:25:43.237] [info] Measurement 'tibia_r'
+[2021-08-02 19:25:43.237] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.480285
+[2021-08-02 19:25:43.238] [info] 	overall scale factor = 1.10418
+[2021-08-02 19:25:43.238] [info] Measurement 'patella_r'
+[2021-08-02 19:25:43.238] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.466485
+[2021-08-02 19:25:43.239] [info] 	overall scale factor = 0.943823
+[2021-08-02 19:25:43.239] [info] Measurement 'talus_r'
+[2021-08-02 19:25:43.240] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:25:43.240] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:25:43.240] [info] Measurement 'calcn_r'
+[2021-08-02 19:25:43.241] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:25:43.241] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:25:43.241] [info] Measurement 'toes_r'
+[2021-08-02 19:25:43.241] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:25:43.241] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:25:43.242] [info] Measurement 'femur_l'
+[2021-08-02 19:25:43.242] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.478313
+[2021-08-02 19:25:43.242] [info] 	overall scale factor = 0.967754
+[2021-08-02 19:25:43.242] [info] Measurement 'tibia_l'
+[2021-08-02 19:25:43.243] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.491658
+[2021-08-02 19:25:43.243] [info] 	overall scale factor = 1.13032
+[2021-08-02 19:25:43.243] [info] Measurement 'patella_l'
+[2021-08-02 19:25:43.243] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.478313
+[2021-08-02 19:25:43.243] [info] 	overall scale factor = 0.967754
+[2021-08-02 19:25:43.244] [info] Measurement 'talus_l'
+[2021-08-02 19:25:43.244] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:25:43.244] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:25:43.244] [info] Measurement 'calcn_l'
+[2021-08-02 19:25:43.244] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:25:43.245] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:25:43.245] [info] Measurement 'toes_l'
+[2021-08-02 19:25:43.245] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:25:43.245] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:25:43.245] [info] Measurement 'torso'
+[2021-08-02 19:25:43.246] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.292897
+[2021-08-02 19:25:43.246] [info] 	overall scale factor = 0.861462
+[2021-08-02 19:25:43.246] [info] Measurement 'torso'
+[2021-08-02 19:25:43.246] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.370858
+[2021-08-02 19:25:43.246] [info] 	overall scale factor = 0.689857
+[2021-08-02 19:25:43.246] [info] Measurement 'humerus_r'
+[2021-08-02 19:25:43.247] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.304557
+[2021-08-02 19:25:43.247] [info] 	overall scale factor = 1.05781
+[2021-08-02 19:25:43.247] [info] Measurement 'ulna_r'
+[2021-08-02 19:25:43.247] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.278836
+[2021-08-02 19:25:43.247] [info] 	overall scale factor = 1.10222
+[2021-08-02 19:25:43.248] [info] Measurement 'radius_r'
+[2021-08-02 19:25:43.248] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.278836
+[2021-08-02 19:25:43.248] [info] 	overall scale factor = 1.10222
+[2021-08-02 19:25:43.248] [info] Measurement 'humerus_l'
+[2021-08-02 19:25:43.249] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.302210
+[2021-08-02 19:25:43.249] [info] 	overall scale factor = 1.04973
+[2021-08-02 19:25:43.249] [info] Measurement 'ulna_l'
+[2021-08-02 19:25:43.249] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.266973
+[2021-08-02 19:25:43.249] [info] 	overall scale factor = 1.05533
+[2021-08-02 19:25:43.250] [info] Measurement 'radius_l'
+[2021-08-02 19:25:43.250] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.266973
+[2021-08-02 19:25:43.250] [info] 	overall scale factor = 1.05533
+[2021-08-02 19:25:43.442] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 19:25:43.444] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:25:43.529] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 19:25:43.749] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:25:43.760] [info] Step 3: Placing markers on model
+[2021-08-02 19:27:34.608] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 19:27:34.819] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:27:34.837] [info] Step 2: Scaling generic model
+[2021-08-02 19:27:34.916] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:27:34.917] [info] Measurement 'pelvis'
+[2021-08-02 19:27:34.917] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.294951
+[2021-08-02 19:27:34.917] [info] 	overall scale factor = 1.10884
+[2021-08-02 19:27:34.917] [info] Measurement 'femur_r'
+[2021-08-02 19:27:34.918] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.466485
+[2021-08-02 19:27:34.918] [info] 	overall scale factor = 0.943823
+[2021-08-02 19:27:34.918] [info] Measurement 'tibia_r'
+[2021-08-02 19:27:34.919] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.480285
+[2021-08-02 19:27:34.919] [info] 	overall scale factor = 1.10418
+[2021-08-02 19:27:34.919] [info] Measurement 'patella_r'
+[2021-08-02 19:27:34.920] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.466485
+[2021-08-02 19:27:34.920] [info] 	overall scale factor = 0.943823
+[2021-08-02 19:27:34.920] [info] Measurement 'talus_r'
+[2021-08-02 19:27:34.920] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:27:34.921] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:27:34.921] [info] Measurement 'calcn_r'
+[2021-08-02 19:27:34.921] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:27:34.921] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:27:34.922] [info] Measurement 'toes_r'
+[2021-08-02 19:27:34.922] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:27:34.922] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:27:34.922] [info] Measurement 'femur_l'
+[2021-08-02 19:27:34.923] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.478313
+[2021-08-02 19:27:34.923] [info] 	overall scale factor = 0.967754
+[2021-08-02 19:27:34.923] [info] Measurement 'tibia_l'
+[2021-08-02 19:27:34.923] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.491658
+[2021-08-02 19:27:34.923] [info] 	overall scale factor = 1.13032
+[2021-08-02 19:27:34.924] [info] Measurement 'patella_l'
+[2021-08-02 19:27:34.924] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.478313
+[2021-08-02 19:27:34.924] [info] 	overall scale factor = 0.967754
+[2021-08-02 19:27:34.924] [info] Measurement 'talus_l'
+[2021-08-02 19:27:34.924] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:27:34.925] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:27:34.925] [info] Measurement 'calcn_l'
+[2021-08-02 19:27:34.925] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:27:34.925] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:27:34.925] [info] Measurement 'toes_l'
+[2021-08-02 19:27:34.926] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:27:34.926] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:27:34.926] [info] Measurement 'torso'
+[2021-08-02 19:27:34.926] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.292897
+[2021-08-02 19:27:34.926] [info] 	overall scale factor = 0.861462
+[2021-08-02 19:27:34.927] [info] Measurement 'torso'
+[2021-08-02 19:27:34.927] [info] 	pair 0 (nose, belly): model = 0.537587, experimental = 0.370858
+[2021-08-02 19:27:34.927] [info] 	overall scale factor = 0.689857
+[2021-08-02 19:27:34.927] [info] Measurement 'humerus_r'
+[2021-08-02 19:27:34.927] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.304557
+[2021-08-02 19:27:34.928] [info] 	overall scale factor = 1.05781
+[2021-08-02 19:27:34.928] [info] Measurement 'ulna_r'
+[2021-08-02 19:27:34.930] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.278836
+[2021-08-02 19:27:34.930] [info] 	overall scale factor = 1.10222
+[2021-08-02 19:27:34.930] [info] Measurement 'radius_r'
+[2021-08-02 19:27:34.930] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.278836
+[2021-08-02 19:27:34.931] [info] 	overall scale factor = 1.10222
+[2021-08-02 19:27:34.931] [info] Measurement 'humerus_l'
+[2021-08-02 19:27:34.931] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.302210
+[2021-08-02 19:27:34.932] [info] 	overall scale factor = 1.04973
+[2021-08-02 19:27:34.932] [info] Measurement 'ulna_l'
+[2021-08-02 19:27:34.932] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.266973
+[2021-08-02 19:27:34.933] [info] 	overall scale factor = 1.05533
+[2021-08-02 19:27:34.933] [info] Measurement 'radius_l'
+[2021-08-02 19:27:34.933] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.266973
+[2021-08-02 19:27:34.934] [info] 	overall scale factor = 1.05533
+[2021-08-02 19:27:35.117] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 19:27:35.119] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:27:35.208] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 19:27:35.431] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:27:35.445] [info] Step 3: Placing markers on model
+[2021-08-02 19:27:35.452] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:27:35.452] [info] Averaged frames from time 0.0 to 0.01 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 1)
+[2021-08-02 19:27:35.453] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:27:35.651] [info] Frame at (t = 0.0):	 total squared error = 0.136276, marker error: RMS = 0.0569621, max = 0.169977 (rfoo)
+[2021-08-02 19:27:35.651] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 19:27:35.701] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:27:35.703] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:27:35.782] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 19:59:37.903] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\Rajagopal2015_adafuse_21kpts.osim
+[2021-08-02 19:59:38.110] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:59:38.126] [info] Step 2: Scaling generic model
+[2021-08-02 19:59:38.209] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:59:38.209] [info] Measurement 'pelvis'
+[2021-08-02 19:59:38.209] [info] 	pair 0 (rhip, lhip): model = 0.266, experimental = 0.294951
+[2021-08-02 19:59:38.210] [info] 	overall scale factor = 1.10884
+[2021-08-02 19:59:38.210] [info] Measurement 'femur_r'
+[2021-08-02 19:59:38.210] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.466485
+[2021-08-02 19:59:38.210] [info] 	overall scale factor = 0.943823
+[2021-08-02 19:59:38.211] [info] Measurement 'tibia_r'
+[2021-08-02 19:59:38.211] [info] 	pair 0 (rkne, rhee): model = 0.434971, experimental = 0.480285
+[2021-08-02 19:59:38.211] [info] 	overall scale factor = 1.10418
+[2021-08-02 19:59:38.211] [info] Measurement 'patella_r'
+[2021-08-02 19:59:38.212] [info] 	pair 0 (rhip, rkne): model = 0.494251, experimental = 0.466485
+[2021-08-02 19:59:38.212] [info] 	overall scale factor = 0.943823
+[2021-08-02 19:59:38.212] [info] Measurement 'talus_r'
+[2021-08-02 19:59:38.212] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:59:38.212] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:59:38.213] [info] Measurement 'calcn_r'
+[2021-08-02 19:59:38.213] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:59:38.213] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:59:38.214] [info] Measurement 'toes_r'
+[2021-08-02 19:59:38.214] [info] 	pair 0 (rtoe, rhee): model = 0.162767, experimental = 0.312928
+[2021-08-02 19:59:38.214] [info] 	overall scale factor = 1.92255
+[2021-08-02 19:59:38.215] [info] Measurement 'femur_l'
+[2021-08-02 19:59:38.215] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.478313
+[2021-08-02 19:59:38.215] [info] 	overall scale factor = 0.967754
+[2021-08-02 19:59:38.215] [info] Measurement 'tibia_l'
+[2021-08-02 19:59:38.215] [info] 	pair 0 (lkne, lhee): model = 0.434971, experimental = 0.491658
+[2021-08-02 19:59:38.216] [info] 	overall scale factor = 1.13032
+[2021-08-02 19:59:38.216] [info] Measurement 'patella_l'
+[2021-08-02 19:59:38.216] [info] 	pair 0 (lhip, lkne): model = 0.494251, experimental = 0.478313
+[2021-08-02 19:59:38.216] [info] 	overall scale factor = 0.967754
+[2021-08-02 19:59:38.216] [info] Measurement 'talus_l'
+[2021-08-02 19:59:38.217] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:59:38.217] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:59:38.217] [info] Measurement 'calcn_l'
+[2021-08-02 19:59:38.217] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:59:38.217] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:59:38.218] [info] Measurement 'toes_l'
+[2021-08-02 19:59:38.218] [info] 	pair 0 (ltoe, lhee): model = 0.162767, experimental = 0.228271
+[2021-08-02 19:59:38.218] [info] 	overall scale factor = 1.40244
+[2021-08-02 19:59:38.218] [info] Measurement 'torso'
+[2021-08-02 19:59:38.218] [info] 	pair 0 (rsho, lsho): model = 0.34, experimental = 0.292897
+[2021-08-02 19:59:38.218] [info] 	overall scale factor = 0.861462
+[2021-08-02 19:59:38.218] [info] Measurement 'torso'
+[2021-08-02 19:59:38.219] [info] 	pair 0 (nose, root): model = 0.59944, experimental = 0.595523
+[2021-08-02 19:59:38.219] [info] 	overall scale factor = 0.993466
+[2021-08-02 19:59:38.219] [info] Measurement 'humerus_r'
+[2021-08-02 19:59:38.219] [info] 	pair 0 (relb, rsho): model = 0.287914, experimental = 0.304557
+[2021-08-02 19:59:38.219] [info] 	overall scale factor = 1.05781
+[2021-08-02 19:59:38.219] [info] Measurement 'ulna_r'
+[2021-08-02 19:59:38.219] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.278836
+[2021-08-02 19:59:38.219] [info] 	overall scale factor = 1.10222
+[2021-08-02 19:59:38.220] [info] Measurement 'radius_r'
+[2021-08-02 19:59:38.220] [info] 	pair 0 (relb, rwri): model = 0.252976, experimental = 0.278836
+[2021-08-02 19:59:38.220] [info] 	overall scale factor = 1.10222
+[2021-08-02 19:59:38.220] [info] Measurement 'humerus_l'
+[2021-08-02 19:59:38.220] [info] 	pair 0 (lelb, lsho): model = 0.287891, experimental = 0.302210
+[2021-08-02 19:59:38.220] [info] 	overall scale factor = 1.04973
+[2021-08-02 19:59:38.220] [info] Measurement 'ulna_l'
+[2021-08-02 19:59:38.220] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.266973
+[2021-08-02 19:59:38.220] [info] 	overall scale factor = 1.05533
+[2021-08-02 19:59:38.221] [info] Measurement 'radius_l'
+[2021-08-02 19:59:38.221] [info] 	pair 0 (lelb, lwri): model = 0.252976, experimental = 0.266973
+[2021-08-02 19:59:38.221] [info] 	overall scale factor = 1.05533
+[2021-08-02 19:59:38.407] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim' from model.
+[2021-08-02 19:59:38.409] [info] Wrote scale file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\scaleFactorSubject.xml' for model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:59:38.485] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\Subject.osim
+[2021-08-02 19:59:38.704] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:59:38.717] [info] Step 3: Placing markers on model
+[2021-08-02 19:59:38.724] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 19:59:38.725] [info] Averaged frames from time 0.0 to 0.01 in C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (frames 0 to 1)
+[2021-08-02 19:59:38.725] [info] Deleted 0 unused markers from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:59:38.937] [info] Frame at (t = 0.0):	 total squared error = 0.115416, marker error: RMS = 0.0524214, max = 0.169255 (rfoo)
+[2021-08-02 19:59:38.938] [info] Moved markers in model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody to match locations in marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc'.
+[2021-08-02 19:59:38.981] [info] Wrote model file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:59:38.983] [info] Wrote marker file 'C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\markersMoved.xml' from model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody.
+[2021-08-02 19:59:39.059] [info] Loaded model FullBodyModel_MuscleActuatedLowerLimb_TorqueActuatedUpperBody from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 20:19:03.133] [info] Loaded model Subject from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 20:19:03.278] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 20:19:15.837] [info] Loaded model Subject from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 20:19:15.988] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 20:20:23.173] [info] Loaded model Subject from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 20:20:23.322] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 20:21:51.420] [info] Loaded model Subject from file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\OpenSim\Adafuse\output\SubjectMoved.osim
+[2021-08-02 20:21:51.564] [info] Loaded marker file C:\Users\Filip Hesse\OneDrive\Dokumente\Studium\UNIGE\Year2\Thesis\output_media_big_for_github\adafuse\3_trc_files\S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc (21 markers, 74 frames)
+[2021-08-02 20:21:51.635] [cout] [info] 
+               MODEL: Subject
+         coordinates: 39
+              forces: 97
+           actuators: 97
+             muscles: 80
+            analyses: 0
+              probes: 0
+              bodies: 22
+              joints: 22
+         constraints: 2
+             markers: 21
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2021-08-02 20:21:51.637] [info] Running tool S14_Normal_00_01_825-00_04_284_j3d_AdaFuse.trc.
+[2021-08-02 20:21:52.187] [info] Frame 0 (t = 0.0):	 total squared error = 0.000457153, marker error: RMS = 0.00466575, max = 0.00872711 (ltoe)
+[2021-08-02 20:21:52.430] [info] Frame 1 (t = 0.02):	 total squared error = 0.000528585, marker error: RMS = 0.00501704, max = 0.00880704 (ltoe)
+[2021-08-02 20:21:52.582] [info] Frame 2 (t = 0.04):	 total squared error = 0.00672809, marker error: RMS = 0.0178993, max = 0.0458951 (rhee)
+[2021-08-02 20:21:52.728] [info] Frame 3 (t = 0.06):	 total squared error = 0.00534175, marker error: RMS = 0.015949, max = 0.0284262 (lkne)
+[2021-08-02 20:21:52.844] [info] Frame 4 (t = 0.08):	 total squared error = 0.00385433, marker error: RMS = 0.0135477, max = 0.0332091 (lkne)
+[2021-08-02 20:21:52.896] [info] Frame 5 (t = 0.1):	 total squared error = 0.00438782, marker error: RMS = 0.0144549, max = 0.034945 (lkne)
+[2021-08-02 20:21:52.981] [info] Frame 6 (t = 0.12):	 total squared error = 0.00267510, marker error: RMS = 0.0112865, max = 0.023129 (lkne)
+[2021-08-02 20:21:53.082] [info] Frame 7 (t = 0.14):	 total squared error = 0.00355893, marker error: RMS = 0.0130182, max = 0.022127 (belly)
+[2021-08-02 20:21:53.174] [info] Frame 8 (t = 0.16):	 total squared error = 0.00202931, marker error: RMS = 0.00983024, max = 0.0210226 (rhee)
+[2021-08-02 20:21:53.352] [info] Frame 9 (t = 0.18):	 total squared error = 0.146556, marker error: RMS = 0.0835396, max = 0.255306 (root)
+[2021-08-02 20:21:53.551] [info] Frame 10 (t = 0.2):	 total squared error = 0.00233062, marker error: RMS = 0.0105348, max = 0.0225418 (rfoo)
+[2021-08-02 20:21:53.648] [info] Frame 11 (t = 0.22):	 total squared error = 0.00449853, marker error: RMS = 0.0146361, max = 0.0349384 (rfoo)
+[2021-08-02 20:21:53.853] [info] Frame 12 (t = 0.24):	 total squared error = 0.00515288, marker error: RMS = 0.0156645, max = 0.0478649 (rfoo)
+[2021-08-02 20:21:54.060] [info] Frame 13 (t = 0.26):	 total squared error = 0.00688031, marker error: RMS = 0.0181007, max = 0.0496326 (rfoo)
+[2021-08-02 20:21:54.301] [info] Frame 14 (t = 0.28):	 total squared error = 0.00636608, marker error: RMS = 0.0174111, max = 0.0577129 (rfoo)
+[2021-08-02 20:21:54.503] [info] Frame 15 (t = 0.3):	 total squared error = 0.00488335, marker error: RMS = 0.0152493, max = 0.0264467 (rhee)
+[2021-08-02 20:21:54.611] [info] Frame 16 (t = 0.32):	 total squared error = 0.00624295, marker error: RMS = 0.0172419, max = 0.0421439 (rhee)
+[2021-08-02 20:21:54.751] [info] Frame 17 (t = 0.34):	 total squared error = 0.00507749, marker error: RMS = 0.0155494, max = 0.041611 (rfoo)
+[2021-08-02 20:21:54.884] [info] Frame 18 (t = 0.36):	 total squared error = 0.0104113, marker error: RMS = 0.0222661, max = 0.0716611 (rfoo)
+[2021-08-02 20:21:55.014] [info] Frame 19 (t = 0.38):	 total squared error = 0.00406770, marker error: RMS = 0.0139176, max = 0.0228832 (rhee)
+[2021-08-02 20:21:55.339] [info] Frame 20 (t = 0.4):	 total squared error = 0.00631229, marker error: RMS = 0.0173374, max = 0.0395646 (rkne)
+[2021-08-02 20:21:55.486] [info] Frame 21 (t = 0.42):	 total squared error = 0.00473397, marker error: RMS = 0.0150142, max = 0.0335736 (rkne)
+[2021-08-02 20:21:55.577] [info] Frame 22 (t = 0.44):	 total squared error = 0.00684008, marker error: RMS = 0.0180477, max = 0.0394011 (rhee)
+[2021-08-02 20:21:55.881] [info] Frame 23 (t = 0.46):	 total squared error = 0.289111, marker error: RMS = 0.117334, max = 0.368104 (lhip)
+[2021-08-02 20:21:56.043] [info] Frame 24 (t = 0.48):	 total squared error = 0.0851509, marker error: RMS = 0.0636773, max = 0.206732 (lhip)
+[2021-08-02 20:21:56.184] [info] Frame 25 (t = 0.5):	 total squared error = 0.0979467, marker error: RMS = 0.0682944, max = 0.220766 (lhip)
+[2021-08-02 20:21:56.393] [info] Frame 26 (t = 0.52):	 total squared error = 0.140726, marker error: RMS = 0.0818611, max = 0.216069 (root)
+[2021-08-02 20:21:56.963] [info] Frame 27 (t = 0.54):	 total squared error = 0.132204, marker error: RMS = 0.0793436, max = 0.196261 (root)
+[2021-08-02 20:21:57.149] [info] Frame 28 (t = 0.56):	 total squared error = 0.135481, marker error: RMS = 0.0803211, max = 0.217461 (lhip)
+[2021-08-02 20:21:57.463] [info] Frame 29 (t = 0.58):	 total squared error = 0.00802470, marker error: RMS = 0.0195481, max = 0.0546029 (rhee)
+[2021-08-02 20:21:57.660] [info] Frame 30 (t = 0.6):	 total squared error = 0.00846056, marker error: RMS = 0.0200720, max = 0.0555169 (rhee)
+[2021-08-02 20:21:57.769] [info] Frame 31 (t = 0.62):	 total squared error = 0.0288109, marker error: RMS = 0.0370398, max = 0.126048 (root)
+[2021-08-02 20:21:57.906] [info] Frame 32 (t = 0.64):	 total squared error = 0.0210963, marker error: RMS = 0.0316952, max = 0.0979617 (root)
+[2021-08-02 20:21:58.065] [info] Frame 33 (t = 0.66):	 total squared error = 0.0714545, marker error: RMS = 0.0583318, max = 0.217603 (lhip)
+[2021-08-02 20:21:58.431] [info] Frame 34 (t = 0.68):	 total squared error = 0.0181858, marker error: RMS = 0.0294277, max = 0.0764209 (root)
+[2021-08-02 20:21:58.649] [info] Frame 35 (t = 0.7):	 total squared error = 0.00343863, marker error: RMS = 0.0127963, max = 0.0357545 (rhee)
+[2021-08-02 20:21:58.880] [info] Frame 36 (t = 0.72):	 total squared error = 0.00292569, marker error: RMS = 0.0118033, max = 0.0297005 (rhee)
+[2021-08-02 20:21:58.995] [info] Frame 37 (t = 0.74):	 total squared error = 0.00876383, marker error: RMS = 0.0204285, max = 0.0505409 (lhee)
+[2021-08-02 20:21:59.236] [info] Frame 38 (t = 0.76):	 total squared error = 0.00546192, marker error: RMS = 0.0161274, max = 0.0401446 (rhee)
+[2021-08-02 20:21:59.390] [info] Frame 39 (t = 0.78):	 total squared error = 0.00801341, marker error: RMS = 0.0195343, max = 0.0350992 (ltoe)
+[2021-08-02 20:21:59.530] [info] Frame 40 (t = 0.8):	 total squared error = 0.00566315, marker error: RMS = 0.0164217, max = 0.0346271 (lkne)
+[2021-08-02 20:21:59.585] [info] Frame 41 (t = 0.82):	 total squared error = 0.00973308, marker error: RMS = 0.0215286, max = 0.0450169 (lkne)
+[2021-08-02 20:21:59.688] [info] Frame 42 (t = 0.84):	 total squared error = 0.00862894, marker error: RMS = 0.0202707, max = 0.0475497 (lkne)
+[2021-08-02 20:21:59.781] [info] Frame 43 (t = 0.86):	 total squared error = 0.00645075, marker error: RMS = 0.0175265, max = 0.0335193 (rhee)
+[2021-08-02 20:21:59.872] [info] Frame 44 (t = 0.88):	 total squared error = 0.00624780, marker error: RMS = 0.0172486, max = 0.0398371 (rhee)
+[2021-08-02 20:22:00.042] [info] Frame 45 (t = 0.9):	 total squared error = 0.0600188, marker error: RMS = 0.0534606, max = 0.205942 (root)
+[2021-08-02 20:22:00.168] [info] Frame 46 (t = 0.92):	 total squared error = 0.0443509, marker error: RMS = 0.0459559, max = 0.176422 (root)
+[2021-08-02 20:22:00.351] [info] Frame 47 (t = 0.94):	 total squared error = 0.0127337, marker error: RMS = 0.0246245, max = 0.0508038 (lhip)
+[2021-08-02 20:22:00.736] [info] Frame 48 (t = 0.96):	 total squared error = 0.00539804, marker error: RMS = 0.0160328, max = 0.0424685 (rhee)
+[2021-08-02 20:22:00.806] [info] Frame 49 (t = 0.98):	 total squared error = 0.00668977, marker error: RMS = 0.0178483, max = 0.0434465 (rhee)
+[2021-08-02 20:22:00.993] [info] Frame 50 (t = 1.0):	 total squared error = 0.00514003, marker error: RMS = 0.0156449, max = 0.0387989 (rhee)
+[2021-08-02 20:22:01.109] [info] Frame 51 (t = 1.02):	 total squared error = 0.00490331, marker error: RMS = 0.0152804, max = 0.0356234 (rhee)
+[2021-08-02 20:22:01.191] [info] Frame 52 (t = 1.04):	 total squared error = 0.00457614, marker error: RMS = 0.0147618, max = 0.0383978 (rfoo)
+[2021-08-02 20:22:01.334] [info] Frame 53 (t = 1.06):	 total squared error = 0.00586588, marker error: RMS = 0.0167131, max = 0.0479288 (rhee)
+[2021-08-02 20:22:01.448] [info] Frame 54 (t = 1.08):	 total squared error = 0.0185609, marker error: RMS = 0.0297296, max = 0.0757101 (root)
+[2021-08-02 20:22:01.545] [info] Frame 55 (t = 1.1):	 total squared error = 0.0338578, marker error: RMS = 0.0401532, max = 0.141903 (root)
+[2021-08-02 20:22:01.834] [info] Frame 56 (t = 1.12):	 total squared error = 0.214927, marker error: RMS = 0.101166, max = 0.234209 (rhip)
+[2021-08-02 20:22:02.382] [info] Frame 57 (t = 1.14):	 total squared error = 0.00569838, marker error: RMS = 0.0164728, max = 0.0278943 (rhee)
+[2021-08-02 20:22:02.557] [info] Frame 58 (t = 1.16):	 total squared error = 0.579897, marker error: RMS = 0.166175, max = 0.481224 (lhip)
+[2021-08-02 20:22:02.840] [info] Frame 59 (t = 1.18):	 total squared error = 0.0565415, marker error: RMS = 0.0518889, max = 0.158268 (root)
+[2021-08-02 20:22:02.905] [info] Frame 60 (t = 1.2):	 total squared error = 0.0380418, marker error: RMS = 0.0425619, max = 0.100256 (root)
+[2021-08-02 20:22:02.983] [info] Frame 61 (t = 1.22):	 total squared error = 0.0305227, marker error: RMS = 0.0381243, max = 0.097716 (root)
+[2021-08-02 20:22:03.427] [info] Frame 62 (t = 1.24):	 total squared error = 0.00962118, marker error: RMS = 0.0214045, max = 0.051115 (rhee)
+[2021-08-02 20:22:03.570] [info] Frame 63 (t = 1.26):	 total squared error = 0.0113404, marker error: RMS = 0.0232383, max = 0.0582478 (rhee)
+[2021-08-02 20:22:03.982] [info] Frame 64 (t = 1.28):	 total squared error = 0.323193, marker error: RMS = 0.124057, max = 0.313539 (rsho)
+[2021-08-02 20:22:04.446] [info] Frame 65 (t = 1.3):	 total squared error = 0.0193969, marker error: RMS = 0.0303918, max = 0.0743324 (rhee)
+[2021-08-02 20:22:04.571] [info] Frame 66 (t = 1.32):	 total squared error = 0.00958819, marker error: RMS = 0.0213677, max = 0.0588047 (rhee)
+[2021-08-02 20:22:04.718] [info] Frame 67 (t = 1.34):	 total squared error = 0.0100716, marker error: RMS = 0.0218998, max = 0.0580688 (rhee)
+[2021-08-02 20:22:04.958] [info] Frame 68 (t = 1.36):	 total squared error = 0.00881554, marker error: RMS = 0.0204887, max = 0.0573147 (rhee)
+[2021-08-02 20:22:05.217] [info] Frame 69 (t = 1.38):	 total squared error = 0.00883942, marker error: RMS = 0.0205164, max = 0.0558294 (rhee)
+[2021-08-02 20:22:05.426] [info] Frame 70 (t = 1.4):	 total squared error = 0.00787403, marker error: RMS = 0.0193637, max = 0.0552294 (rhee)
+[2021-08-02 20:22:05.548] [info] Frame 71 (t = 1.42):	 total squared error = 0.00830995, marker error: RMS = 0.0198925, max = 0.0561912 (rhee)
+[2021-08-02 20:22:05.643] [info] Frame 72 (t = 1.44):	 total squared error = 0.00707139, marker error: RMS = 0.0183503, max = 0.0504712 (rhee)
+[2021-08-02 20:22:05.739] [info] Frame 73 (t = 1.46):	 total squared error = 0.00561384, marker error: RMS = 0.0163501, max = 0.0492804 (rhee)
+[2021-08-02 20:22:05.744] [info] InverseKinematicsTool completed 74 frames in 14 second(s).
